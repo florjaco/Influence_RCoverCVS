@@ -1,0 +1,9 @@
+Simulacion_cardiac_chamber2 es la simu del modelo de ventr der con r cte e inercia
+
+Simulacion_cardiac_chamber3 es la simu del modelo de ventr der con r cte e inercia mínima
+
+simulacion_cardiac_chamber_v3 es la simu del modelo de ventr der con r cte y sin inercia
+
+comparacion_modeloinercia_modelocinerciaminima es la comparacion de los resultados de las
+simu del modelo de ventr der sin inercia y con inercia minima
+
